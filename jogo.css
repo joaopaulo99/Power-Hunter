@@ -1,0 +1,59 @@
+*{
+        margin: 0;
+        padding: 0;     
+    }
+
+    Body {
+    text-align: center;
+    color: rgb(255, 140, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    border-radius: 20px;}
+
+    form {
+        background-color: rgb(39, 37, 34);
+        max-width: 500px;
+        width: 70%;
+        padding: 20px;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);}
+    form {
+        text-align: center;
+        color: #ff6600;
+        font-family: 'Anton', sans-serif;
+        border-radius: 20px;
+
+    }
+/* form input[type=text],
+    form input[type=password] {
+        width: 100%;
+        height: 40px;
+        border: 1px solid #accc;
+        padding-left: 10px;
+        margin: 10px 0;    
+    } */
+    /* form input[type=text],
+    form input[type=password] {
+        width: 100%;
+        height: 40px;
+        border: 1px solid #ccc;
+        padding-left: 10px;
+        margin: 10px 0;} */
+    form button {
+        width: 50%;
+        height: 30px;
+        cursor: pointer;
+        background: rgb(14, 180, 221);
+        color: rgb(247, 0, 0);
+        border: 10;
+        border-radius: 15px;  }
+     Body{ background-image: url();}
+
+   
+
+     Body{ background-image: url("http://www.osmais.com/wallpapers/201204/fogo-e-gelo-wallpaper.jpg");}
+
+     .function{
+         background-color: #ff6600;
+     }
